@@ -15,6 +15,7 @@
 		E4C5BB8B23E1EA63005C0CAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4C5BB8923E1EA63005C0CAE /* LaunchScreen.storyboard */; };
 		E4C5BB9623E1EA63005C0CAE /* TopStories2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C5BB9523E1EA63005C0CAE /* TopStories2Tests.swift */; };
 		E4C5BBA123E1EA63005C0CAE /* TopStories2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C5BBA023E1EA63005C0CAE /* TopStories2UITests.swift */; };
+		E4C5BBAF23E1ED20005C0CAE /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C5BBAE23E1ED20005C0CAE /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E4C5BB9C23E1EA63005C0CAE /* TopStories2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TopStories2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4C5BBA023E1EA63005C0CAE /* TopStories2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStories2UITests.swift; sourceTree = "<group>"; };
 		E4C5BBA223E1EA63005C0CAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4C5BBAE23E1ED20005C0CAE /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E4C5BB8723E1EA63005C0CAE /* Assets.xcassets */,
 				E4C5BB8923E1EA63005C0CAE /* LaunchScreen.storyboard */,
 				E4C5BB8C23E1EA63005C0CAE /* Info.plist */,
+				E4C5BBAE23E1ED20005C0CAE /* SwiftyJSON.swift */,
 			);
 			path = TopStories2;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				E4C5BB8323E1EA5F005C0CAE /* SourcesViewController.swift in Sources */,
 				E4C5BB7F23E1EA5F005C0CAE /* AppDelegate.swift in Sources */,
 				E4C5BB8123E1EA5F005C0CAE /* SceneDelegate.swift in Sources */,
+				E4C5BBAF23E1ED20005C0CAE /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
